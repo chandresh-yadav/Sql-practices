@@ -702,6 +702,27 @@ where country_id not in (
 select country_id from countries
 where rownum = 1)
 
+--106.	How many salespersons have succeeded in getting orders?
+--107.	How many customers have placed orders?
+--108.	On which date has each salesperson booked an order of maximum value?
+--109.	Who is the most successful salesperson?
+--110.	Who is the worst customer with respect to the company?
+--111.	Are all customers not having placed orders greater than 200 totally been serviced by salesperson Peel or Serres?
+--112.	Which customers have the same rating?
+--113.	Find all orders greater than the average for October 4th.
+--114.	Which customers have above average orders?
+--115.	List all customers with ratings above San Jose’s average.
+--116.	Select the total amount in orders for each salesperson for which the total is greater than the amount of the largest order in the table.
+--117.	Give names and numbers of all salesperson that have more than one customer.
+--118.	Select all salesperson by name and numbers who have customers in their city whom they don’s the service.
+--119.	Which customers’ rating should be lowered?
+--120.	Is there a case for assigning a salesperson to Berlin?
+--121.	Is there any evidence linking the performance of a salesperson to commission that he or she is being paid?
+--122.	Dose the total amount in orders by customer in Rome and London exceeds the commission paid to salesperson in London and New York by more than 5 times?
+--123.	Which is the date, order number, amt and city for each salesperson (byname) for   the maximum order he has obtained?
+--124.	Which salesperson(s) should be fired?
+--125.	What is the total income for the company? 
+
 
 
 

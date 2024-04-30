@@ -57,3 +57,5 @@ where first_name like '___'
 Select instr(first_name,'o') as "Position of 'o' in John" from employee1
 where upper(first_name) = upper('john')
 
+--9.	Get FIRST_NAME from employee table after removing white spaces from right side.
+
